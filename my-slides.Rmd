@@ -66,7 +66,7 @@ Approach to Learning and Teaching that encourages us to reflect on .red[how we t
 
 Aims at .red[not creating barriers] to learning;
 
-Aims at considering the .red[diversity of learning styles] in the classroom.
+Aims at considering the .red[diversity of our learners] in the classroom.
 
 ]
 
@@ -166,10 +166,11 @@ cannot be dynamically modified by reader.
 ]
 
 ---
+class: middle 
 
 # Writing Mathematics
 
-* Alternative: provide HTML formats (with Mathjax to render the maths) in addition to PDF.
+* Alternative: provide HTML formats (with Mathjax to render the maths) **in addition to PDF**.
 
 * **Existing material** can be converted
 
@@ -191,7 +192,7 @@ cannot be dynamically modified by reader.
   
   * Generates PDF as well as HTML files;
   
-  * Mathematics is written in LaTeX.
+  * Mathematical objects are written in LaTeX.
   
 * Academics need to be informed and trained.
 
@@ -218,6 +219,7 @@ class: inverse, middle, center
 Informing and Training
 
 ---
+class: middle 
 
 # University of Aberdeen Project
 
@@ -235,6 +237,7 @@ Informing and Training
 Further info: see poster .green[Creating Accessible STEM Teaching and Learning Resources].
 
 ---
+class: middle 
 
 # University of Glasgow Project
 
@@ -252,6 +255,8 @@ Further info: see poster .green[Creating Accessible STEM Teaching and Learning R
 
 
 ---
+class: middle 
+
 # SMSN Collaboration
 
 * Complex and technical problem with no straightforward solution!
